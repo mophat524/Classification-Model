@@ -4,14 +4,8 @@
 This project focuses on predicting customer churn using machine learning techniques. The dataset used is `bigml_59c28831336c6604c800002a.csv`, and the analysis is performed in the notebook `churn.ipynb`.
 
 ## Project Structure
-- `Phase 3 Project/`
   - `bigml_59c28831336c6604c800002a.csv`: Main dataset for churn prediction.
   - `churn.ipynb`: Jupyter notebook containing data exploration, preprocessing, modeling, and evaluation steps.
-
-## How to Run
-1. Open `churn.ipynb` in Jupyter Notebook or VS Code.
-2. Run the cells sequentially to reproduce the analysis and results.
-3. Ensure all required Python packages are installed (see below).
 
 ## Requirements
 - Python 3.7+
