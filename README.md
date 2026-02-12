@@ -30,7 +30,7 @@ We compare **Logistic Regression** (linear, highly interpretable) with **Decisio
 
 ## Project Structure
 
-
+```text
 telecom-churn-prediction/
 ├── data/
 │   └── bigml_59c28831336c6604c800002a.csv          # original dataset
