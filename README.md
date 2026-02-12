@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction
+# SyriaTel Customer Churn Prediction
 
 Predicting customer churn in a telecommunications company using machine learning.  
 Goal: Identify at-risk customers early so the retention team can intervene with targeted offers, reducing revenue loss.
