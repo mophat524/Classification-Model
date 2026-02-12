@@ -45,7 +45,7 @@ telecom-churn-prediction/
 ├── models/                                        # saved best models (.joblib / .pkl)
 ├── README.md
 └── requirements.txt
-
+```
 ## Requirements
 - Python 3.7+
 - pandas
