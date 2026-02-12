@@ -3,8 +3,8 @@
 Predicting customer churn in a telecommunications company using machine learning.  
 Goal: Identify at-risk customers early so the retention team can intervene with targeted offers, reducing revenue loss.
 
-![Churn Overview](https://via.placeholder.com/800x300.png?text=Customer+Churn+Dashboard)  
-*(Replace with actual screenshot of model performance or churn dashboard)*
+<img width="846" height="482" alt="image" src="https://github.com/user-attachments/assets/6efe355e-4068-4c53-8569-5d27b22c77bc" />
+
 
 ## Project Overview
 
