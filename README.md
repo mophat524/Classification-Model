@@ -14,7 +14,7 @@ We compare **Logistic Regression** (linear, highly interpretable) with **Decisio
 **Key business motivation**:
 - Churn rate in dataset: **~14.5%**
 - Acquiring new customers is **5–25×** more expensive than retaining existing ones
-- Reducing churn by ~4–5 percentage points can save **hundreds of millions to billions of KES** annually (depending on subscriber base and ARPU)
+- Reducing churn by ~4–5 percentage points can save money annually (depending on subscriber base and ARPU(Average Revenue Per User))
 
 ## Dataset
 
@@ -30,7 +30,7 @@ We compare **Logistic Regression** (linear, highly interpretable) with **Decisio
 
 ## Project Structure
 
-```text
+
 telecom-churn-prediction/
 ├── data/
 │   └── bigml_59c28831336c6604c800002a.csv          # original dataset
@@ -46,13 +46,6 @@ telecom-churn-prediction/
 ├── README.md
 └── requirements.txt
 
-## Overview
-This project focuses on predicting customer churn using machine learning techniques. The dataset used is `bigml_59c28831336c6604c800002a.csv`, and the analysis is performed in the notebook `churn.ipynb`.
-
-## Project Structure
-  - `bigml_59c28831336c6604c800002a.csv`: Main dataset for churn prediction.
-  - `churn.ipynb`: Jupyter notebook containing data exploration, preprocessing, modeling, and evaluation steps.
-
 ## Requirements
 - Python 3.7+
 - pandas
@@ -60,8 +53,6 @@ This project focuses on predicting customer churn using machine learning techniq
 - scikit-learn
 - matplotlib
 - seaborn
-
-
 
 ## Project Steps
 1. **Data Loading & Exploration**: Load the dataset and perform exploratory data analysis (EDA).
